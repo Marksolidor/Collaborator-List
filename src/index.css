@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.search-title{
+  text-align: center;
+  margin: 0;
+  padding: 0.5em;
+}
+
+.add-button{
+  text-align: center;
+}
+
+.table{
+  text-align: center;
+}
