@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Collaborator-List/static/css/main.78bbff56.css",
+    "main.js": "/Collaborator-List/static/js/main.5b4537d1.js",
+    "index.html": "/Collaborator-List/index.html",
+    "main.78bbff56.css.map": "/Collaborator-List/static/css/main.78bbff56.css.map",
+    "main.5b4537d1.js.map": "/Collaborator-List/static/js/main.5b4537d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78bbff56.css",
+    "static/js/main.5b4537d1.js"
+  ]
+}
